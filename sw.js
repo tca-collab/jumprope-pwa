@@ -1,4 +1,4 @@
-const CACHE = 'jumprope-v1';
+const CACHE = 'jumprope-v3';
 const ASSETS = [
   './',
   './index.html',
